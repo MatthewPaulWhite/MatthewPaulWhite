@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MatthewPaulWhite
-- 👀 I’m interested in why the internet is really just a series of tubes?
+- 👀 I’m interested in why the internet is really just a series of tubes
 - 🌱 I’m currently learning how to paint... what is doesn't have to be technical!
 
 <!---
